@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<!--Example of External DTD. Hear we moved DTD separate file-->
+<!DOCTYPE department SYSYTEM "xmldefinitation.dtd">
+<departmenr>
+	<Did id >
+
